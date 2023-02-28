@@ -22,7 +22,7 @@ setting year 2020
       
     <details>
     <summary>pivot_1</summary>
-    <img src="[https://github.com/mas-tono/Call-Center-Dashboard/blob/main/image/table.jpg](https://github.com/mas-tono/Call-Center-Dashboard/blob/main/image/calls%2C%20avg_satisfaction_score%2C%20avg_call_duration.jpg)"
+    <img src="https://github.com/mas-tono/Call-Center-Dashboard/blob/main/image/calls%2C%20avg_satisfaction_score%2C%20avg_call_duration.jpg"
     </details>
 
 8.       
