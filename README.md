@@ -2,7 +2,7 @@
 create MS.Excel dashboard for Call Center's performance
 setting year 2020</br>
 	<details>
-	<summary><b>dashboard</b></summary>
+	<summary><b>Dashboard</b></summary>
 	<img src="https://github.com/mas-tono/Call-Center-Dashboard/blob/main/image/dashboard.jpg">
 	</details>
 	
